@@ -1,26 +1,28 @@
-# 📊 Current State
+# 📊 現在の状況 (Current State)
 
-## 📍 Location
-- **現在地**: 隠れ家「エデン」 (Hidden Base "Eden")
-- **時間**: 朝 (Day 3)
-- **状況**: Harem Awakening (Chaotic)
+## 📍 現在地情報
+- **現在地**: 隠れ家「エデン」
+- **時間**: 3日目 - 朝
+- **状況**: 朝食の時間 (全員屈服済み)
 
-## 👤 Protagonist Status
-| Name | Race | Level | HP | MP | Class |
-| :--- | :---: | :---: | :--: | :--: | :--- |
-| **ツツイケンタ** | Gorilla | 2 | 200 | 110 | Tamer/Stallion |
-| **State**: Fully Rested / Morning Wood |
+## 👤 主人公ステータス (Apprentice King)
+| 名前 | ハーレム人数 | HP (H-Point) | SP (Semen-Point) |
+| :--- | :---: | :---: | :---: |
+| **ツツイケンタ** | **3 / 100** | **3 / 3** | **3 / 3** |
+| **Rank**: 獣王見習い (Apprentice) | **Next**: 10人 (???) |
+> **System**: 1性交 = 消費:1HP + 射精回数分SP (基本2射精)
 
-## 👥 Party Members (Companions)
-- **Rim (Slime)**: Happy w/ Kenta.
-- **Aria (Knight)**: Awake / Panicking / Pregnant.
-- **Goblin Girl**: Awake / Sleepy / Pregnant.
+## 👥 ハーレムメンバー (周期: 6日)
+- **アリア**: [妊娠中] (排卵停止) / 感度:良
+- **ゴブリン**: [妊娠中] (排卵停止) / 感度:良
+- **リム**: [人外] (常時発情) / 粘液:多
+> **Cycle**: [1.安全] → [3.危険] → [6.排卵(V.High)] → [1.安全]量:潤沢
 
-## ⚠️ Current Encounter
-**Morning Drama**:
-- **Topic**: Aria's confusion and denial.
+## ⚠️ 現在のイベント
+**朝食の時間**:
+- **トピック**: ハーレムへの餌付け。
 
-## 🎯 Active Quests
+## 🎯 進行中のクエスト
 - [x] **アリアの説得**: 完了。彼女は運命を受け入れた。
 - [ ] **ゴブリン娘の命名**: まだ名無し。
 - [ ] **朝食**: 腹が減っては戦（と夜の営み）ができぬ。

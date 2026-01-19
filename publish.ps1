@@ -1,5 +1,6 @@
 # Publish to GitHub Pages
-# This script adds all changes, commits, and pushes to the remote repository.
+# Automatically move to the script's directory
+Set-Location $PSScriptRoot
 
 $commitMessage = Read-Host "Enter update message (default: Session Update)"
 if ([string]::IsNullOrWhiteSpace($commitMessage)) {

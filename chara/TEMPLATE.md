@@ -1,30 +1,37 @@
-# Character Sheet: [Name]
+# キャラクターシート: [名前] (Name)
 
-## 🖼️ Visuals
-*(Place character image here: e.g., `![Standing](image.png)`)*
+## 🖼️ ビジュアル
+*(ここに画像を配置: 例 `![Standing](image.png)`)*
 
-## 👤 Profile
-- **Name**: [名前]
-- **Race**: [種族]
-- **Sex**: [性別]
-- **Age**: [年齢]
-- **Role/Class**: [役割/職業]
-- **Affiliation**: [所属]
+## 👤 プロフィール
+- **名前**: [名前]
+- **種族**: [種族]
+- **性別**: [性別]
+- **年齢**: [年齢]
+- **クラス**: [職業/役割]
+- **所属**: [所属]
 
-## 📊 Status
-| Stat | Value | Description |
+## 📊 ステータス
+| 項目 | 値 | 説明 |
 | :--- | :---: | :--- |
-| **HP** | 100 | Health Points |
-| **MP** | 50 | Magic/Stamina Points |
-| **ATK** | 10 | Physical Attack |
-| **MAG** | 10 | Magical Power |
-| **DEF** | 10 | Defense |
-| **SPD** | 10 | Speed/Agility |
+| **HP** | 100 | 体力 (Health Points) |
+| **MP** | 50 | 魔力・精神力 (Magic/Stamina) |
+| **ATK** | 10 | 攻撃力 |
+| **DEF** | 10 | 防御力 |
+| **SPD** | 10 | 素早さ |
+| **周期** | [安全/危険] | 生理周期の状態 |
 
-## ⚔️ Skills
-- **[Skill Name]**: [Description]
-- **[Skill Name]**: [Description]
+## ⚔️ スキル
+- **[スキル名]**: [説明]
+- **[スキル名]**: [説明]
 
-## 📖 Background & Personality
-- [性格や生い立ち、特徴的な口調などを記述]
-- [プレイヤーとの関係性]
+## 🩷 関係性データ (Relationship)
+- **パートナー**: [相手の名前]
+- **好感度**: 0% (初期値)
+- **H属性**: [属性タグ, 属性タグ...]
+- **備考**: [メモ]
+
+## 🎒 装備・所持品
+- **装備**: [装備名]
+- **インベントリ**:
+    - [アイテム]
