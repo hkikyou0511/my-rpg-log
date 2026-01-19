@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RPG Session Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;700&family=Zen+Maru+Gothic:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="main-container">
+        <!-- Sidebar / Status Panel (Right on Desktop, Top on Mobile) -->
+        <aside id="status-panel">
+            <div class="panel-header">
+                <h2>Current Status</h2>
+            </div>
+            <div id="status-content">
+                <div class="loading">Loading Status...</div>
+            </div>
+        </aside>
+
+        <!-- Main Content / Log Viewer (Left on Desktop, Bottom on Mobile) -->
+        <main id="log-viewer">
+            <div class="panel-header">
+                <h2>Adventure Log</h2>
+            </div>
+            <div id="log-content">
+                <div class="loading">Loading Session Log...</div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Mobile Toggle Button -->
+    <button id="mobile-toggle" onclick="togglePanel()">📊</button>
+
+    <script src="app.js"></script>
+</body>
+</html>
